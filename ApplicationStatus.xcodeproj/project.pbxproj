@@ -13,6 +13,7 @@
 		0C7F26DC1E3E1503009A1F35 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C7F26DA1E3E1503009A1F35 /* Main.storyboard */; };
 		0C7F26DE1E3E1503009A1F35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C7F26DD1E3E1503009A1F35 /* Assets.xcassets */; };
 		0C7F26E11E3E1503009A1F35 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C7F26DF1E3E1503009A1F35 /* LaunchScreen.storyboard */; };
+		0C7F26E91E3E21AA009A1F35 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C7F26E81E3E21AA009A1F35 /* smiley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0C7F26DD1E3E1503009A1F35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C7F26E01E3E1503009A1F35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C7F26E21E3E1503009A1F35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C7F26E81E3E21AA009A1F35 /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smiley.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				0C7F26DA1E3E1503009A1F35 /* Main.storyboard */,
 				0C7F26DD1E3E1503009A1F35 /* Assets.xcassets */,
 				0C7F26DF1E3E1503009A1F35 /* LaunchScreen.storyboard */,
+				0C7F26E81E3E21AA009A1F35 /* smiley.png */,
 				0C7F26E21E3E1503009A1F35 /* Info.plist */,
 				0C7F26D11E3E1503009A1F35 /* Supporting Files */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C7F26E91E3E21AA009A1F35 /* smiley.png in Resources */,
 				0C7F26E11E3E1503009A1F35 /* LaunchScreen.storyboard in Resources */,
 				0C7F26DE1E3E1503009A1F35 /* Assets.xcassets in Resources */,
 				0C7F26DC1E3E1503009A1F35 /* Main.storyboard in Resources */,
